@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Cyreus/Cyreus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ali! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+Hello everyone! 
+I'm backend developer. Also i am interesting data analyzing, digital image processing and cyberthreat intelligence.
+
+## 🔗 My social contacts
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Cyreus.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedaliozturk/)
+
+
+
+
+
+- ⚡ There is nothing permanent except change!  -Heraclitus
 -->
