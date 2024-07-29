@@ -16,4 +16,3 @@ I'm backend developer. Also i am interesting data analyzing, digital image proce
 
 
 - ⚡ There is nothing permanent except change!  -Heraclitus
--->
