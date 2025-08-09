@@ -3,13 +3,7 @@
 
 
 ## 🚀 About Me 
-I’m a senior Software Engineering student at Bandırma Onyedi Eylül University, specializing in backend development. I have hands-on experience in both web development and the gaming industry, with several completed projects that reflect my skills.
-
-I have a solid understanding of networking concepts through Cisco-based training materials. I also received training in lean manufacturing from Bursa Model Factory, and I hold relevant competencies in this field.
-
-My technical strengths include microservices architecture and cloud-based solutions. Additionally, I’m continuously improving my skills in image processing, data analysis, and data mining.
-
-I’m passionate about building scalable and efficient systems, and I aim to grow within collaborative, innovation-driven teams.
+I am a graduate of the Software Engineering Department at the Faculty of Engineering and Natural Sciences, Bandırma Onyedi Eylül University. I am specializing as a Backend Developer and have developed numerous projects in the fields of web development and game development. I have worked with training materials provided by Cisco and, within our department, designed practical network examples, gaining proficiency in general networking. I received training on lean manufacturing from Bursa Model Factory and am also a certified lean manufacturing engineer. I have experience with architectures such as microservices, cloud-based architecture, MVC, and CQRS, as well as methodologies like Agile (Scrum) and V-Model. Additionally, I am conducting research and working in the field of AI agents.
 
 
 ## 🔗 My social contacts
