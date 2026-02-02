@@ -1,9 +1,8 @@
 
-# Hi, I'm Ali! 👋
-
-
 ## 🚀 About Me 
-I am a graduate of the Software Engineering Department at the Faculty of Engineering and Natural Sciences, Bandırma Onyedi Eylül University. I am specializing as a Backend Developer and have developed numerous projects in the fields of web development and game development. I have worked with training materials provided by Cisco and, within our department, designed practical network examples, gaining proficiency in general networking. I received training on lean manufacturing from Bursa Model Factory and am also a certified lean manufacturing engineer. I have experience with architectures such as microservices, cloud-based architecture, MVC, and CQRS, as well as methodologies like Agile (Scrum) and V-Model. Additionally, I am conducting research and working in the field of AI agents.
+I hold a degree in Software Engineering from Bandırma Onyedi Eylül University, where I developed a strong foundation in Backend Development. My project portfolio spans across web and game development, showcasing my versatility in building diverse digital solutions. With a solid background in networking—enhanced by Cisco training materials—and a certification as a Lean Manufacturing Engineer from the Bursa Model Factory, I bring a unique, efficiency-oriented mindset to software production. I am well-versed in modern architectures such as Microservices, Cloud-based systems, MVC, and CQRS, and I am adept at working within Agile (Scrum) and V-Model frameworks.
+
+Currently, I am expanding my expertise into QA Engineering, focusing on delivering high-quality, resilient software. I am a proactive team player who thrives on learning new technologies and taking ownership of complex challenges. Beyond engineering, I am passionate about exploring new cultures and connecting with people from all walks of life.
 
 
 ## 🔗 My social contacts
